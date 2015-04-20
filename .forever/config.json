@@ -1,0 +1,17 @@
+{
+  "root": "/opt/apps/firstapp/.forever",
+  "pidPath": "/opt/apps/firstapp/.forever/pids",
+  "sockPath": "/opt/apps/firstapp/.forever/sock",
+  "loglength": 100,
+  "logstream": false,
+  "columns": [
+    "uid",
+    "command",
+    "script",
+    "forever",
+    "pid",
+    "id",
+    "logfile",
+    "uptime"
+  ]
+}
